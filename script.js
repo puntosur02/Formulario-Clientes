@@ -1,7 +1,7 @@
 // Configuración - Reemplaza este valor con tu URL de Web App
 const CONFIG = {
     // URL de tu Web App de Google Sheets (obtenida al publicar el script)
-    WEBAPP_URL: 'TU_URL_DE_WEBAPP_AQUI'
+    WEBAPP_URL: 'https://script.google.com/macros/s/AKfycby_-iYUO4sndWaeZWhM_tfvzBmiAQhTSzAucCEuXkl-lXt31-zEeI0_tAbfC9uKv2aJUw/exec'
 };
 
 // Variables globales
